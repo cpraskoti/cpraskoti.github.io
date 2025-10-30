@@ -7,19 +7,46 @@ redirect_from:
   - /about.html
 ---
 
-I am a Graduate Research Assistant at the [University of Tennessee, Knoxville](https://www.utk.edu/), pursuing a Master's degree in Computer Science. My research focuses on Machine Learning, Robotics, and Future Mobility at the Fluidic City Lab and Center for Transportation Research.
+I am a Graduate Research Assistant at the [University of Tennessee, Knoxville](https://www.utk.edu/), working in the Machine Learning and Medical Robotics under [Dr. Jindong Tan](https://tickle.utk.edu/bme/faculty/jindong-tan/). My current research focuses on developing computer vision systems for surgical robotics and robotic manipulation of surgical tools.
 
-Currently, I am working on developing 3D vision systems for minimally invasive surgery to enhance surgical precision and spatial awareness. I have also developed a Maneuver Intention-Aware Transformer (MIAT) for spatio-temporal trajectory prediction and engineered 2D/3D co-simulation environments for large-scale traffic flow and high-fidelity vehicle dynamics.
+Previously, I worked with [Dr. Weizi Li](https://weizi-li.github.io/) at the [Fluidic City Lab](https://fluidic-city.github.io/), where I developed machine learning models for autonomous vehicle trajectory prediction and traffic simulation.
+
+Before joining academia, I worked as a machine learning engineer in industry, leading projects AI systems across various domains including time series forecasting, computer vision, bioinformatics, and conversational AI.
 
 ## Research Interests
 
+- Medical Robotics & Computer-Assisted Surgery
+- Computer Vision & 3D Vision Systems
 - Machine Learning & Deep Learning
-- Computer Vision & 3D Vision
-- Autonomous Systems & Trajectory Prediction
-- Robotics & Medical Imaging
+- Autonomous Systems & Intelligent Transportation System
 
-## Recent Work
+<!-- ## Get My CV -->
 
-My recent research includes developing the MIAT framework for vehicle trajectory prediction (accepted at IROS-2025) and work on continual learning with hard attention parameter masking for image classification tasks.
+## [Get my CV here (PDF)](/assets/pdf/CV.pdf)
 
-Prior to joining UTK, I worked as a Lead Machine Learning Engineer at Olive Group and as a Machine Learning Engineer at Fusemachines Inc., where I led projects involving LLMs, computer vision, NLP, and time series forecasting.
+## News
+
+**August 2025** - Joined Medical Robotics Lab under Dr. Jindong Tan, working on robotic manipulation for surgical applications
+
+**July 2025** - Paper accepted at IROS 2025: "MIAT: Maneuver-Intention-Aware Transformer for Spatio-Temporal Trajectory Prediction" [[Paper]](https://arxiv.org/abs/2504.05059)
+
+**August 2024** - Started graduate program in Computer Science at University of Tennessee, Knoxville
+
+**July 2024** - Completed position as Lead Machine Learning Engineer at Olive Group
+
+**September 2023** - Promoted to Senior Machine Learning Engineer at Olive Group
+
+**July 2023** - Joined Olive Group as Machine Learning Engineer
+
+**January 2023** - Promoted to Machine Learning Engineer Level III at Fusemachines
+
+**January 2022** - Promoted to Machine Learning Engineer Level II at Fusemachines
+
+**February 2021** - Promoted to Machine Learning Engineer Level I at Fusemachines
+
+**March 2020** - Promoted to Associate Machine Learning Engineer at Fusemachines
+
+**December 2019** - Joined Fusemachines as Machine Learning Engineer Trainee
+
+
+

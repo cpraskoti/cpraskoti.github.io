@@ -9,11 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+<!-- ## Get My CV -->
+
+### [Get my CV here (PDF)](/assets/pdf/CV.pdf)
+
 Education
 ======
 * **M.S. in Computer Science**, University of Tennessee, Knoxville, Aug 2024 – Present
-  * Graduate Research Assistant focusing on Machine Learning, Robotics, Future Mobility
-  * Fluidic City Lab & Center for Transportation Research
+  * Graduate Research Assistant focusing on Medical Robotics, Machine Learning, Computer Vision
+  * Medical Robotics Lab & Fluidic City Lab
 
 * **B.E. in Electronics and Communication**, Institute of Engineering, Pulchowk Campus, Nov 2015 – Sept 2019
   * Tribhuvan University, Kathmandu, Nepal
@@ -25,11 +29,21 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+
 Work Experience
 ======
-* **Research Assistant** (Aug 2024 – Present)
-  * Fluidic City Lab & Center for Transportation Research, University of Tennessee
+* **Research Assistant** (Aug 2025 – Present)
+  * Medical Robotics Lab, Dr. Jindong Tan, University of Tennessee
   * Developing 3D vision systems for minimally invasive surgery to enhance surgical precision and spatial awareness
+  * Working on robotic manipulation of surgical tools for automated surgical assistance
+
+* **Research Assistant** (Aug 2024 – Jul 2025)
+  * Fluidic City Lab, Dr. Weizi Li, University of Tennessee
   * Developed a Maneuver Intention aware and tunable framework for vehicle trajectory prediction
   * Engineered a 2D/3D co-simulation environment for large-scale traffic flow and high-fidelity vehicle dynamics
 

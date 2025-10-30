@@ -9,5 +9,5 @@ venue: '15th IOE Graduate Conference (IOEGC-15th)'
 citation: 'C. Raskoti and S. Ghimire. (2019). &quot;Continual Learning With Hard Attention Parameter Masking on Image Classification Tasks.&quot; <i>IOEGC-15th</i>.'
 ---
 
-This paper investigates continual learning methods that use hard attention parameter masking to enable neural networks to learn new tasks without forgetting previously learned ones in image classification scenarios.
+This work investigates continual learning methods that use hard attention parameter masking to enable neural networks to learn new tasks without forgetting previously learned ones in image classification scenarios.
 

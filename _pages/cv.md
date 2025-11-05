@@ -11,7 +11,7 @@ redirect_from:
 
 <!-- ## Get My CV -->
 
-### [Get my CV here (PDF)](/assets/pdf/CV.pdf)
+### [My CV (PDF)](/assets/pdf/CV.pdf)
 
 Education
 ======

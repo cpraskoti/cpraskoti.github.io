@@ -22,7 +22,7 @@ Before joining academia, I worked as a machine learning engineer in industry, le
 
 <!-- ## Get My CV -->
 
-## [Get my CV here (PDF)](/assets/pdf/CV.pdf)
+## [My CV (PDF)](/assets/pdf/CV.pdf)
 
 ## News
 

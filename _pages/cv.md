@@ -9,10 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- ## Get My CV -->
 
-### [My CV (PDF)](/assets/pdf/CV.pdf)
-
+### [My CV (PDF)](/assets/pdf/CV_academic_Fei.pdf)
+<!-- 
 Education
 ======
 * **M.S. in Computer Science**, University of Tennessee, Knoxville, Aug 2024 – Present
@@ -75,4 +74,4 @@ Skills
 ======
 * **Languages:** Python, C, C++
 * **Machine Learning:** PyTorch, TensorFlow, Scikit-Learn, Pandas, NumPy, MLFlow
-* **Tools & Cloud:** Git, Docker, Kubernetes, AWS, Azure, SQL, MongoDB
+* **Tools & Cloud:** Git, Docker, Kubernetes, AWS, Azure, SQL, MongoDB -->

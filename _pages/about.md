@@ -20,9 +20,8 @@ Before joining academia, I worked as a machine learning engineer in industry, le
 - Machine Learning & Deep Learning
 - Autonomous Systems & Intelligent Transportation System
 
-<!-- ## Get My CV -->
 
-## [My CV (PDF)](/assets/pdf/CV.pdf)
+## [My CV (PDF)](/assets/pdf/CV_academic_Fei.pdf)
 
 ## News
 

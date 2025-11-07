@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-### [My CV (PDF)](/assets/pdf/CV_academic_Fei.pdf)
+### [My CV (PDF)](/assets/pdf/CV_academic.pdf)
 <!-- 
 Education
 ======

@@ -8,7 +8,7 @@ author_profile: true
 ## 3D Vision Systems for Minimally Invasive Surgery
 **Advisor: [Dr. Jindong Tan](https://tickle.utk.edu/bme/faculty/jindong-tan/), University of Tennessee**
 
-Advanced 3D vision systems developed to enhance surgical precision and spatial awareness in minimally invasive surgical procedures, integrating depth perception and real-time tracking capabilities. Current work focuses on robotic manipulation of surgical tools for automated surgical assistance.
+3D vision systems developed to enhance surgical precision and spatial awareness in minimally invasive surgical procedures, integrating depth perception and real-time tracking capabilities. Current work focuses on robotic manipulation of surgical tools for automated surgical assistance.
 
 ## MIAT: Maneuver-Intention-Aware Transformer
 **Advisor: [Dr. Weizi Li](https://weizi-li.github.io/), [Fluidic City Lab](https://fluidic-city.github.io/), University of Tennessee**

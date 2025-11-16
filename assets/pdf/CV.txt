@@ -1,0 +1,55 @@
+                                                  Chandra Raskoti
+                         cpraskoti@gmail.com | +1 (865) 403-0904 | LinkedIn | cpraskoti.github.io
+Summary
+• Machine Learning Engineer with 5 years of industry experience (including Lead ML Engineer) and current M.S. Computer
+  Science student with reserach focused on machine learning, medical robotics.
+• End-to-end experience with LLMs, computer vision, time-series forecasting, and medical robotics: problem scoping, data
+  pipelines, modeling, evaluation, and deployment on cloud infrastructure.
+Industry Experience
+Lead Machine Learning Engineer, Olive Group                                                                   Jul 2023 – Jul 2024
+• Led development of an LLM-based prompt-to-video content generation system, designing a retrieval-augmented pipeline
+  using semantic similarity search over user prompts, scripts, and assets.
+• Built OCR and information-extraction pipelines for large book collections using object detection and table recognition,
+  significantly reducing manual review effort.
+• Managed a ML engineering team through technical design, experimentation, code review, and deployment in collaboration
+  with product and content stakeholders.
+Machine Learning Engineer, Fusemachines Inc.                                                                  Dec 2019 – Jul 2023
+• Developed multivariate time-series forecasting pipelines for a major video game publisher, including feature engineering,
+  model selection, and productionization on cloud infrastructure.
+• Developed encoder–decoder semi-supervised models for protein–disease association discovery using large-scale biomedical
+  datasets in collaboration with biopharma researchers.
+• Built personalized conversational agents integrating graph databases, intent classification, and entity resolution for enterprise
+  clients.
+Research Assistant, Tan Engineering Lab, University of Tennessee                                               Aug 2025 – Present
+• Researching autonomous robotic grasping and manipulation for delicate medical applications, focusing on perception-driven
+  policies and robust control.
+Research Assistant, Fluidic City Lab, University of Tennessee                                                Aug 2024 – Jul 2025
+• Applied deep learning and statistical models to predict complex traffic interactions in mixed-traffic environments,
+  contributing to transformer-based trajectory prediction methods.
+ML/Python Instructor & Mentor, Fusemachines Inc.                                                              Dec 2019 – Jul 2023
+• Mentored 8 ML apprentices and instructed Python/ML courses covering computer vision, NLP, and time-series analysis,
+  emphasizing practical, production-oriented workflows.
+Selected Publications
+• C. Raskoti, I. Islam, X. Wang, and W. Li, “MIAT: Maneuver-Intention-Aware Transformer for Spatio-Temporal Trajectory
+  Prediction.” IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025. Link
+• C. Raskoti and W. Li, “Elevation-aware 2D/3D co-simulation framework for large-scale traffic flow and high-fidelity vehicle
+  dynamics.” Preprint draft.
+• C. Raskoti and S. Ghimire, “Continual Learning With Hard Attention Parameter Masking on Image Classification Tasks.”
+  IOEGC, 2024.
+Projects
+Metahuman Interview Agent
+• Built an AI interview system combining Speech-to-Text, Text-to-Speech, and an LLM to conduct STAR-format behavioral
+  interviews and generate structured feedback for candidates.
+Elevation-aware 2D/3D Traffic Co-simulation Framework
+• 2D/3D traffic co-simulation framework that builds elevation-aware 3D road networks from real-world map and GIS data to
+  model high-fidelity traffic dynamics for perception, simulation, and evaluation of intelligent transportation ML models.
+Skills
+Programming: Python, C, C++
+ML & Deep Learning: PyTorch, TensorFlow, Scikit-learn, Transformers, Time-series Forecasting, Computer Vision, NLP
+Data & MLOps: NumPy, Pandas, SQL, MongoDB, MLflow, Git, Docker, Kubernetes, CI/CD
+Cloud: AWS, Azure
+Education
+M.S. in Computer Science, University of Tennessee                                         Aug 2024 – May 2026 (Expected)
+B.E. Electronics and Communication Engineering, Institute of Engineering, Pulchowk Campus       Nov 2015 – Sept 2019
+• Government scholarship recipient (acceptance rate < 4%).
+

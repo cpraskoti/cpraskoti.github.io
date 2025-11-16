@@ -6,19 +6,26 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I’m a Machine Learning Engineer with five years of industry experience spanning computer vision, natural language processing, time-series forecasting, and medical robotics. I’m currently pursuing an M.S. in Computer Science at the University of Tennessee, where my research focuses on the intersection of machine learning and medical robotics—particularly perception-driven policies and robust control.
 
-I am a Graduate Research Assistant at the [University of Tennessee, Knoxville](https://www.utk.edu/), working in the Machine Learning and Medical Robotics under [Dr. Jindong Tan](https://tickle.utk.edu/bme/faculty/jindong-tan/). My current research focuses on developing computer vision systems for surgical robotics and robotic manipulation of surgical tools.
+Throughout my career, I’ve worked with cross-functional teams to design, build, and deploy reliable and scalable ML solutions. Having collaborated with teams of different sizes, cultures, and technical backgrounds, I’ve developed a strong ability to communicate complex ideas clearly, work effectively in diverse environments, and ensure that technical efforts stay aligned with product objectives.
 
-Previously, I worked with [Dr. Weizi Li](https://weizi-li.github.io/) at the [Fluidic City Lab](https://fluidic-city.github.io/), where I developed machine learning models for autonomous vehicle trajectory prediction and traffic simulation.
+I’m especially interested in combining rigorous engineering practices with innovative algorithmic approaches to solve complex, real-world problems.
 
-Before joining academia, I worked as a machine learning engineer in industry, leading projects AI systems across various domains including time series forecasting, computer vision, bioinformatics, and conversational AI.
+## Technical Skills
 
-## Research Interests
+**Machine Learning & AI:** PyTorch, TensorFlow, and Scikit-learn with production experience in computer vision, NLP, and time-series forecasting
 
-- Medical Robotics & Computer-Assisted Surgery
-- Computer Vision & 3D Vision Systems
-- Machine Learning & Deep Learning
-- Autonomous Systems & Intelligent Transportation System
+**Software Engineering:** Python, C, C++, experienced in building scalable ML pipelines, API development, and microservices architecture
+
+**MLOps & Infrastructure:** Docker, Kubernetes, CI/CD pipelines, MLflow, and cloud platforms (AWS, Azure)
+
+**Data Engineering:** NumPy, Pandas, SQL, and NoSQL databases (MongoDB), with experience handling large-scale datasets
+
+<!-- ## Research Focus
+
+- **Medical Robotics:** Research on perception-driven autonomous manipulation systems for medical applications
+- **Computer Vision:** Advancing 3D vision systems and spatial understanding for robotics -->
 
 
 ## [My CV (PDF)](/assets/pdf/CV.pdf)

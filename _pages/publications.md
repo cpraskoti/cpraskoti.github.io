@@ -19,6 +19,9 @@ author_profile: true
     font-style: italic;
     margin-bottom: 0.3em;
 }
+.publication-authors {
+    margin-bottom: 0.3em;
+}
 .publication-description {
     line-height: 1.5;
 }
@@ -28,23 +31,29 @@ author_profile: true
     <div class="publication-title">
         <a href="https://arxiv.org/abs/2504.05059" target="_blank">MIAT: Maneuver-Intention-Aware Transformer for Spatio-Temporal Trajectory Prediction</a>
     </div>
+    <div class="publication-authors">
+        <strong>C. Raskoti</strong>, I. Islam, X. Wang, and W. Li
+    </div>
     <div class="publication-venue">
         IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025
     </div>
     <div class="publication-description">
-        This paper presents a Maneuver Intention-Awareness control mechanism for vehicle trajectory prediction in mixed traffic.
+        A maneuver intention-awareness framework for vehicle trajectory prediction in mixed traffic, achieving 11.1% improvement in long-horizon predictions through spatio-temporal attention and intention-aware modeling.
     </div>
 </div>
 
 <div class="publication-item">
     <div class="publication-title">
-        Elevation-aware 2D/3D co-simulation framework for large-scale traffic flow and high-fidelity vehicle dynamics
+        Large-scale Traffic Co-Simulation from GIS Data
+    </div>
+    <div class="publication-authors">
+        I. Islam, <strong>C. Raskoti</strong>, F. Liu, and W. Li
     </div>
     <div class="publication-venue">
-        Preprint (Draft), 2025
+        European Conference on Computer Vision (ECCV), 2026. <em>In Submission.</em>
     </div>
     <div class="publication-description">
-        A 2D/3D traffic co-simulation framework that generates elevation-aware 3D road networks from real-world GIS data to support perception, simulation, and evaluation of intelligent transportation ML models and autonomous driving systems.
+        A 2D/3D traffic co-simulation framework that generates elevation-aware 3D road networks from real-world GIS data to support large-scale traffic simulation and high-fidelity vehicle dynamics evaluation.
     </div>
 </div>
 
@@ -52,10 +61,13 @@ author_profile: true
     <div class="publication-title">
         Continual Learning With Hard Attention Parameter Masking on Image Classification Tasks
     </div>
+    <div class="publication-authors">
+        <strong>C. Raskoti</strong> and S. Ghimire
+    </div>
     <div class="publication-venue">
         IOE Graduate Conference (IOEGC), 2024
     </div>
     <div class="publication-description">
-        This paper presents a continual learning method that applies hard-attention parameter masking to mitigate catastrophic forgetting in image classification, allowing neural networks to acquire new tasks over time while preserving prior knowledge.
+        A continual learning method that applies hard-attention parameter masking to mitigate catastrophic forgetting in image classification, enabling neural networks to acquire new tasks while preserving prior knowledge.
     </div>
 </div>

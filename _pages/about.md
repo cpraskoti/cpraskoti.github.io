@@ -12,7 +12,7 @@ Before graduate school, I worked as an ML engineer for 4 years building producti
 
 ## Technical Skills
 
-**Research Areas:** Multimodal Reasoning, Vision-Language Models, Adaptive Inference, Embodied AI, Spatiotemporal Modeling, Continual Learning
+**Research Areas:** Multimodal Reasoning, Foundational Models(LLM,VLM,VLA)
 
 **ML/DL:** PyTorch, TensorFlow, Transformers, LLMs, VLMs, RAG, Embeddings, Ranking/Retrieval, NLP, Computer Vision, Time-Series
 
